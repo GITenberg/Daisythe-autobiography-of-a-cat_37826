@@ -1,0 +1,24 @@
+_repo: Daisythe-autobiography-of-a-cat_37826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swan, Miranda Eliot
+    gutenberg_agent_id: '39082'
+    url: http://www.gutenberg.org/2009/agents/39082
+description: ''
+gutenberg_issued: '2011-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Fiction'
+- !lcc 'PS'
+title: 'Daisy: the autobiography of a cat'
+url: http://www.gutenberg.org/ebooks/37826
